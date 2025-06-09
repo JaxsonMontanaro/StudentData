@@ -1,0 +1,7 @@
+Name: dayvon
+Address: 456 street
+GPA: 2.2 Name: jaxson
+Address: 123 street
+GPA: 3.6 Name: zach
+Address: 890 street
+GPA: 1.0 
